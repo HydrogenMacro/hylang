@@ -1,0 +1,9 @@
+name = "hylang"
+description = "Light WebAssembly Language"
+version = "0.1.0"
+authors = ["hydrogenmacro"]
+edition = "2021"
+readme = "README.md"
+repository = "https://github.com/hydrogenmacro/hylang/"
+
+[dependencies]
